@@ -24,3 +24,7 @@ Do not paste this inside your config, it will not work.
 
 # Errors
 Make sure you've filled everything out correctly and in the same type (int, string). If you get any errors, feel free to contact me thru my discord.
+
+### 1. ModuleNotFound
+Modules you need to use this program: discord.py.
+To install do: pip install <module_name>, example: pip install discord.py
