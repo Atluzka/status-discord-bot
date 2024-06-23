@@ -28,3 +28,6 @@ Make sure you've filled everything out correctly in the config and in the same t
 ### 1. ModuleNotFound
 Modules you need to use this program: discord.
 To install do: pip install <module_name>, example: pip install discord
+
+# TO-DO
+* Store info in a database, instead of storing in memory.
