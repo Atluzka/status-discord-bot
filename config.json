@@ -1,0 +1,14 @@
+{
+    "bot-token": "DISCORD_BOT_TOKEN",
+    "guild-id": 0,
+
+    "status-message": "atluzka",
+    "role-to-give": 0,
+    "logs-channel-id": 0,
+    "send-logs": true,
+    "check-statuses-on-startup": true,
+
+    "admins": [],
+    "blacklisted-users": [],
+    "footer-msg": "github.com/atluzka/status-discord-bot"
+}
