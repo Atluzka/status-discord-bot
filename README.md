@@ -23,7 +23,7 @@ Do not paste this inside your config, it will not work.
 ```
 
 # Errors
-Make sure you've filled everything out correctly in the config and in the same type (int, string). If you get any errors, feel free to contact me thru my discord.
+Make sure you've filled everything out correctly in the config and in the same type (int, string).
 
 ### 1. ModuleNotFound
 Modules you need to use this program: discord.
